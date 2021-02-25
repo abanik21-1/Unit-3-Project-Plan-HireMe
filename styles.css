@@ -1,0 +1,35 @@
+h1 {
+    font-size: 60px;
+    color: black;
+    font-family: 'Comfortaa', cursive;
+
+}
+
+h2 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 60px;
+    background-color: #f9c;
+    padding-left: 10px;
+    color: lavender;
+
+}
+
+.w {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 22px;
+    color: white;
+}
+
+
+.img {
+    border-radius: 100%;
+    border: 3px solid;
+    height: 330px;
+    width: 330px;
+
+}
+
+.word {
+    font-family: 'Questrial', sans-serif;
+    font-size: 22px;
+}
